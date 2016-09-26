@@ -33,7 +33,7 @@
     "Justin Matthews (@jmatthewsr-ms)"
   ],
   "dependencies": {
-    "bindings": "^1.2.0",
-    "nan": "^1.6.0"
+    "bindings": "1.2.0",
+    "nan": "1.6.0"
   }
 }
